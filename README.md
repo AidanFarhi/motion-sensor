@@ -1,0 +1,3 @@
+# Dependencies
+
+`Arduino_JSON`
